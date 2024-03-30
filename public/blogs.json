@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/0GdyCyt/composition-with-html-system-websites.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MT25YHH4IEI6LCDPUA35XI4DAE&w=1200",
+      "posted_date": "2024-03-04",
+      "reading_time": 10,
+      "hashtags": ["programming", "technology", "coding"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/2dPzbST/programming-background-with-html-text.jpg",
+      "title": "Designing Beautiful UIs",
+      "author": "Jane Smith",
+      "author_img": "https://spor12.dk/wp-content/uploads/2017/05/speaker-1.jpg",
+      "posted_date": "2024-03-03",
+      "reading_time": 15,
+      "hashtags": ["design", "UI/UX", "web development"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/F4g6Cm7/top-view-female-cook-cutting-apple-dark-surface.jpg",
+      "title": "Cooking with Passion",
+      "author": "Alice Johnson",
+      "author_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alice_Johnson_-_2019_State_of_the_Union_Guests_%2840035011983%29_%28cropped%29.jpg/800px-Alice_Johnson_-_2019_State_of_the_Union_Guests_%2840035011983%29_%28cropped%29.jpg",
+      "posted_date": "2024-03-02",
+      "reading_time": 8,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/rdyqKZW/wellness-health-lifestyle-workout-graphic-word.jpg",
+      "title": "Fitness for Life",
+      "author": "David Brown",
+      "author_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/David_Brown_2000.jpg/800px-David_Brown_2000.jpg",
+      "posted_date": "2024-03-01",
+      "reading_time": 12,
+      "hashtags": ["fitness", "exercise", "health"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/6W22jT7/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-p.jpg",
+      "title": "Travel Adventures",
+      "author": "Emily Taylor",
+      "author_img": "https://images.squarespace-cdn.com/content/v1/60f74744e62f76008fec79db/1633290988930-BAPOGR1T2U6Q87KH07TV/EmilyTaylor-7354_retouch.jpg?format=1500w",
+      "posted_date": "2024-02-29",
+      "reading_time": 20,
+      "hashtags": ["travel", "adventure", "explore"]
+    }
+  ]
