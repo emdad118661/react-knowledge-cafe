@@ -4,7 +4,7 @@ import Blog from "../Blog/Blog";
 import PropTypes from 'prop-types';
 
 const Blogs = ({handleAddToBookmark, handleMarkAsRead}) => {
-    const [blogs, setblogs] = useState();
+    const [blogs, setblogs] = useState([]);
 
     useEffect(() => {
         fetch('blogs.json')
